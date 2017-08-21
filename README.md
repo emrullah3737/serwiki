@@ -1,0 +1,2 @@
+# serwiki
+Server Wiki
